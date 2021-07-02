@@ -1,4 +1,4 @@
-nome_munic,porcentagem vacinados,doses aplicadas,populacao,datahora,latitude,longitude,casos,obitos,casos_pc,obitos_pc
+nome_munic,porcentagem_vacinada,doses_aplicadas,populacao,datahora,latitude,longitude,casos,obitos,casos_pc,obitos_pc
 BOTUCATU,0.817693918,121125,148130,2021-06-30,-22.8837,-48.4437,15154,271,10737.2373968186,192.014737662522
 SERRANA,0.75698887,34552,45644,2021-06-30,-21.2043,-47.5952,4249,89,9562.49718683891,200.29706981140598
 TURMALINA,0.699882075,1187,1696,2021-06-30,-20.0486,-50.4792,169,4,9362.88088642659,221.606648199446
