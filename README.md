@@ -24,3 +24,12 @@ Desde 2020, várias vacinas foram desenvolvidas e testadas e há uma variedade d
 em grande parte dos países. O Brasil, infelizmente, ainda não conseguiu vacinar uma parcela significativa da população. Até o dia 27 de junho de 2021, 70 325 677 pessoas, 
 quivalente a **33,21% da população brasileira**, foram vacinadas com a 1.ª dose de uma das vacinas; a 2.ª dose foi aplicada em 25 243 190 pessoas, 
 equivalente a 11,92% da população. </p>
+
+
+
+
+
+
+<h3> Referências<h3>
+<li>https://github.com/turicas/covid19-br/blob/master/api.md#caso_full</li>
+<li>https://brasil.io/dataset/covid19/caso_full/</li>
