@@ -1,10 +1,24 @@
 <h1>A COVID-19 no município de Botucatu/SP e os primeiros efeitos da vacinação na progressão da pandemia </h1>
 
+<h2>Objetivos do projeto:</h2>
+
+*  analisar o número de casos e óbitos por Covid-19 no Estado de São Paulo e na cidade de Botucatu,  utilizando séries temporais referentes aos dados da epidemia no Estado;
+* verificar se há indícios de mudança na progressão da pandemia, tanto do número de casos como do número de óbitos, após o recebimento da primeira dose pela população da cidade de Botucatu;
+* elaborar previsões com relação à progressão da pandemia utilizando a ferramenta Facebook Prophet.
+
+<h3> Hipótese: </h3>
+<li> Já será possível perceber uma tendência de mudança nos números da pandemia na cidade de Botucatu (queda do número de casos, óbitos ou ambos) a partir do final de     junho/2021.</li>
+<br>
+
+
+<h2> Uma breve introdução ao tema</h2>
+
 <h3> O que é a COVID-19?</h3>
 
 <p> A COVID-19 é uma doença infecciosa causada pelo coronavírus da síndrome respiratória aguda grave 2(-SARS-CoV-2), 
 cujo primeiro caso foi identificado na cidade de Wuhan na China em dezembro de 2019 e desde então se espalhou pelo mundo todo, ocasionando uma pandemia que ainda está em curso. 
 No final de junho/2021, já haviam sido registrados 182 milhões de casos no mundo e 3.95 milhóes de mortes pela doença. No Brasil eram 18.6 milhões de casos e 512 mil óbitos. </p>
+
 
 A COVID-19 é transmida através de gotículas produzidas nas vias respiratórias das pessoas infetadas. Ao espirrar ou tossir, 
 estas gotículas podem ser inaladas ou atingir diretamente a boca, nariz ou olhos de pessoas em contato próximo.Também podem depositar-se em objetos e 
@@ -25,6 +39,17 @@ em grande parte dos países. O Brasil, infelizmente, ainda não conseguiu vacina
 quivalente a **33,21% da população brasileira**, foram vacinadas com a 1.ª dose de uma das vacinas; a 2.ª dose foi aplicada em 25 243 190 pessoas, 
 equivalente a 11,92% da população. </p>
 
+<h3> As vacinas contra a COVID-19 são eficazes?</h3>
+
+<p> As diversas vacinas disponíveis contra COVID-19 estão sendo amplamente estudadas no mundo todo, buscando entender sua efetividade e seus efeitos na contenção da pandemia.</p>
+
+<p>Nenhuma das vacinas disponíveis no mundo atualmente tem eficácia de 100% contra o vírus Sars-CoV-2, ou seja, elas não impedem que o indivíduo seja infectado e passe a doença para outras pessoas. Mas elas são eficazes de evitar os casos graves da doença, que levam à intubação e à morte.</p>
+
+<h3> Quanto tempo demora para fazerem efeito?</h3>
+
+<p>As vacinas se mostraram eficientes em evitar que a doença seja contraída e transmitida, mas além disso mostraram alta eficácia na diminuição da gravidade da doença, quando contraída. A vacina Oxford/AstraZeneca, por exemplo, conferiu eficácia de mais de 70% na primeira dose, 22 dias após a aplicação. Após a segunda dose, a eficácia chega a quase 100% para casos graves e morte, desde que se tome as duas no período recomendado – 12 semanas. </p>
+
+<p>No Brasil, há cidades que estão participando em estudos da efetividade da vacinação contra a COVID-19. Este é o caso da cidade estudada neste projeto, a cidade de Botucatu localizada no estado de São Paulo. Em 27 de abril de 2021, Botucatu foi escolhida pelo Ministério da Saúde para iniciar a vacinação em massa na população acima de 18 anos. A vacina utilizada é a vacina produzida pela AstraZeneca em parceria com a Fiocruz. A campanha foi iniciada em 16/maio/2021, quando 65 000 dos cerca de 147 000 habitantes da cidade receberam a primeira dose da vacina. No final de junho mais de 81% da população da cidade já havia recebido a primeira dose.</p>
 
 
 
