@@ -1,7 +1,7 @@
 <h1>A COVID-19 no município de Botucatu/SP e os primeiros efeitos da vacinação na progressão da pandemia </h1>
 
  
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-markus-spiske-3970332.jpg" width="1000">
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-markus-spiske-3970332.jpg" width="1000" height="500">
 
 <h2>Objetivos do projeto:</h2>
 
@@ -22,7 +22,7 @@
 cujo primeiro caso foi identificado na cidade de Wuhan na China em dezembro de 2019 e desde então se espalhou pelo mundo todo, ocasionando uma pandemia que ainda está em curso. 
 No final de junho/2021, já haviam sido registrados 182 milhões de casos no mundo e 3.95 milhóes de mortes pela doença. No Brasil eram 18.6 milhões de casos e 512 mil óbitos. </p>
  
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cdc-3993212.jpg" width="1000">
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cdc-3993212.jpg">
 
 A COVID-19 é transmida através de gotículas produzidas nas vias respiratórias das pessoas infetadas. Ao espirrar ou tossir, 
 estas gotículas podem ser inaladas ou atingir diretamente a boca, nariz ou olhos de pessoas em contato próximo.Também podem depositar-se em objetos e 
@@ -42,7 +42,7 @@ na vacinação da população.</p>
  
  
  
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cottonbro-3952238%20(1).jpg" width="1000">
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cottonbro-3952238%20(1).jpg" >
  
   
 
@@ -59,7 +59,7 @@ equivalente a 11,92% da população. </p>
 
 <p>Nenhuma das vacinas disponíveis no mundo atualmente tem eficácia de 100% contra o vírus Sars-CoV-2, ou seja, elas não impedem que o indivíduo seja infectado e passe a doença para outras pessoas. Mas elas são eficazes de evitar os casos graves da doença, que levam à intubação e à morte.</p>
 
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-nataliya-vaitkevich-5863389.jpg" width="1000">
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-nataliya-vaitkevich-5863389.jpg">
 <br>
 
 <h3> Quanto tempo demora para fazerem efeito?</h3>
