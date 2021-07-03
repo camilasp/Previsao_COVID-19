@@ -18,13 +18,13 @@
 
 <h3> O que é a COVID-19?</h3>
 
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cdc-3993212.jpg" align="right" width ="500" height="300">
+
 <p> A COVID-19 é uma doença infecciosa causada pelo coronavírus da síndrome respiratória aguda grave 2(-SARS-CoV-2), 
 cujo primeiro caso foi identificado na cidade de Wuhan na China em dezembro de 2019 e desde então se espalhou pelo mundo todo, ocasionando uma pandemia que ainda está em curso. 
 No final de junho/2021, já haviam sido registrados 182 milhões de casos no mundo e 3.95 milhóes de mortes pela doença. No Brasil eram 18.6 milhões de casos e 512 mil óbitos. </p>
  
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cdc-3993212.jpg">
-
-A COVID-19 é transmida através de gotículas produzidas nas vias respiratórias das pessoas infetadas. Ao espirrar ou tossir, 
+<p>A COVID-19 é transmida através de gotículas produzidas nas vias respiratórias das pessoas infetadas. Ao espirrar ou tossir, 
 estas gotículas podem ser inaladas ou atingir diretamente a boca, nariz ou olhos de pessoas em contato próximo.Também podem depositar-se em objetos e 
 superfícies próximos que podem infetar quem nelas toque e leve a mão aos olhos, nariz ou boca. O intervalo de tempo entre a exposição ao vírus e
 o início dos sintomas é de 2 a 14 dias, sendo em média 5 dias.</p>
@@ -33,6 +33,8 @@ o início dos sintomas é de 2 a 14 dias, sendo em média 5 dias.</p>
 
 <h3> Como podemos parar a COVID-19?</h3>
 
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cottonbro-3952238%20(1).jpg" align="left" width ="400" height="300">
+
 <p>Como ocorre na maioria das doenças virais, não há medicamentos que previnam nem tratamento específico cuja eficácia tenha sido
 comprovada para a COVID-19. O manejo da doença é feito com base no alívio dos sintomas e de medidas mais intervencionionistas nos casos de doença grave,
 onde costuma ser feita a intubação do paciente para que evitar os danos relacionados à baixa oxigênação ocasionada pela doença nesses casos.</p>
@@ -40,11 +42,6 @@ onde costuma ser feita a intubação do paciente para que evitar os danos relaci
 <p>A prevenção é baseada em bons hábitos de higiene, uso de mascaras que protejam da exposição às gotículas de saliva, no distanciamento social  e 
 na vacinação da população.</p>
  
- 
- 
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-cottonbro-3952238%20(1).jpg" >
- 
-  
 
 <p>Desde 2020, várias vacinas foram desenvolvidas e testadas e há uma variedade de vacinas disponíveis atualmente e a imunização da população já se iniciou 
 em grande parte dos países. O Brasil, infelizmente, ainda não conseguiu vacinar uma parcela significativa da população. Até o dia 27 de junho de 2021, 70 325 677 pessoas, 
@@ -53,13 +50,14 @@ equivalente a 11,92% da população. </p>
 <br>
 
 
-<h3> As vacinas contra a COVID-19 são eficazes?</h3>
+<a>
+<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-nataliya-vaitkevich-5863389.jpg" width ="400" height="300" align= "right">
+ </a>
+ <h3> As vacinas contra a COVID-19 são eficazes?</h3>
 
 <p> As diversas vacinas disponíveis contra COVID-19 estão sendo amplamente estudadas no mundo todo, buscando entender sua efetividade e seus efeitos na contenção da pandemia.</p>
 
 <p>Nenhuma das vacinas disponíveis no mundo atualmente tem eficácia de 100% contra o vírus Sars-CoV-2, ou seja, elas não impedem que o indivíduo seja infectado e passe a doença para outras pessoas. Mas elas são eficazes de evitar os casos graves da doença, que levam à intubação e à morte.</p>
-
-<img src="https://github.com/camilasp/Previsao_COVID-19/blob/master/images/pexels-nataliya-vaitkevich-5863389.jpg">
 <br>
 
 <h3> Quanto tempo demora para fazerem efeito?</h3>
