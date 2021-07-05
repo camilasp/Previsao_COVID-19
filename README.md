@@ -75,9 +75,10 @@ equivalente a 11,92% da população. </p>
 <p>No Brasil, há cidades que estão participando em estudos da efetividade da vacinação contra a COVID-19. Este é o caso da cidade estudada neste projeto, a cidade de Botucatu localizada no estado de São Paulo. Em 27 de abril de 2021, Botucatu foi escolhida pelo Ministério da Saúde para iniciar a vacinação em massa na população acima de 18 anos. A vacina utilizada é a vacina produzida pela AstraZeneca em parceria com a Fiocruz. A campanha foi iniciada em 16/maio/2021, quando 65 000 dos cerca de 147 000 habitantes da cidade receberam a primeira dose da vacina. No final de junho mais de 81% da população da cidade já havia recebido a primeira dose.</p>
 <br>
 
-<h3>Acesse o notebook para ver o projeto todo, incluindo análise dos dados, desenvolvimento de previsões usando o Prophet e conclusões.</h3>
-<br>
 
+Acesse o [notebook](https://github.com/camilasp/Previsao_COVID-19/blob/master/notebooks/Projeto_3.ipynb) para ver o projeto todo, incluindo análise dos dados, desenvolvimento de previsões usando o Prophet e conclusões.
+<br>
+<br>
 
 <h3> Referências<h3>
 <li> https://brasil.io/dataset/covid19/caso_full/
