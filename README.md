@@ -80,21 +80,22 @@ Acesse o [notebook](https://github.com/camilasp/Previsao_COVID-19/blob/master/no
 <br>
 <br>
 
-<h2> Referências<h2>
-<li> https://brasil.io/dataset/covid19/caso_full/
-<li> https://github.com/seade-R/dados-covid-sp
-<li> https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/
-<li> https://covid.saude.gov.br/
-<li> https://en.wikipedia.org/wiki/COVID-19
-<li> https://blog.brasil.io/2020/03/23/dados-coronavirus-por-municipio-mais-atualizados/
-<li> https://brasil.io/dataset/covid19/caso_full/
-<li> https://g1.globo.com/sp/bauru-marilia/noticia/2021/05/16/vacinacao-em-massa-termina-com-mais-de-65-mil-doses-da-astrazeneca-aplicadas-em-botucatu.ghtml
-<li> https://exame.com/brasil/botucatu-tem-queda-de-48-em-casos-de-covid-5-semanas-apos-vacinacao/
-<li> https://www.cnnbrasil.com.br/saude/2021/06/28/covid-19-vacinacao-em-massa-em-botucatu-sp-reduz-casos-em-71
-<li> https://www.bbc.com/portuguese/geral-56916558
-<li> https://www.cnnbrasil.com.br/saude/2021/05/19/vacina-nao-impede-de-contrair-covid-19-mas-evita-gravidade-e-morte-entenda
-<li> https://g1.globo.com/bemestar/vacina/noticia/2021/05/01/vacina-astrazeneca-entenda-qual-a-protecao-da-1a-dose-e-qual-o-motivo-do-intervalo-de-tres-meses-para-a-2a.ghtml
-<li> Foto de cottonbro no Pexels
-<li> Foto de CDC no Pexels
-<li> Foto de Markus Spiske no Pexels
+<h2> Referências</h2>
+
+* https://brasil.io/dataset/covid19/caso_full/)
+* https://github.com/seade-R/dados-covid-sp
+* https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/
+* https://covid.saude.gov.br/
+* https://en.wikipedia.org/wiki/COVID-19
+* https://blog.brasil.io/2020/03/23/dados-coronavirus-por-municipio-mais-atualizados/
+* https://brasil.io/dataset/covid19/caso_full/
+* https://g1.globo.com/sp/bauru-marilia/noticia/2021/05/16/vacinacao-em-massa-termina-com-mais-de-65-mil-doses-da-astrazeneca-aplicadas-em-botucatu.ghtml
+* https://exame.com/brasil/botucatu-tem-queda-de-48-em-casos-de-covid-5-semanas-apos-vacinacao/
+* https://www.cnnbrasil.com.br/saude/2021/06/28/covid-19-vacinacao-em-massa-em-botucatu-sp-reduz-casos-em-71
+* https://www.bbc.com/portuguese/geral-56916558
+* https://www.cnnbrasil.com.br/saude/2021/05/19/vacina-nao-impede-de-contrair-covid-19-mas-evita-gravidade-e-morte-entenda
+* https://g1.globo.com/bemestar/vacina/noticia/2021/05/01/vacina-astrazeneca-entenda-qual-a-protecao-da-1a-dose-e-qual-o-motivo-do-intervalo-de-tres-meses-para-a-2a.ghtml
+* Foto de cottonbro no Pexels
+* Foto de CDC no Pexels
+* Foto de Markus Spiske no Pexels
 
