@@ -80,7 +80,7 @@ Acesse o [notebook](https://github.com/camilasp/Previsao_COVID-19/blob/master/no
 <br>
 <br>
 
-<h3> Referências<h3>
+<h2> Referências<h2>
 <li> https://brasil.io/dataset/covid19/caso_full/
 <li> https://github.com/seade-R/dados-covid-sp
 <li> https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/
